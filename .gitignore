@@ -1,0 +1,4 @@
+*/node_modules/
+server/db.js
+server/database.sql
+.DS_Store
