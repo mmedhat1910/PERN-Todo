@@ -23,7 +23,7 @@ const InputTodo = () => {
 	};
 	return (
 		<div>
-			<h1 className='text-center mt-5'>Pern Todo List</h1>
+			<h1 className='text-center mt-5'>PERN Todo List</h1>
 			<form className='d-flex mt-5' onSubmit={onSubmitForm}>
 				<input
 					type='text'
